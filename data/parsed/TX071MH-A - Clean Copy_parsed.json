@@ -1,0 +1,6082 @@
+{
+  "carrier_code": "AMERMOD",
+  "state": "TX",
+  "product": "Manufactured Home",
+  "base_rates": {
+    "Owner": 30.0,
+    "Seasonal": 120.0,
+    "Owner/Seasonal": 15.0
+  },
+  "territory_factors": {
+    "dwelling": {},
+    "other_structures": {},
+    "personal_property": {}
+  },
+  "flood_territory_factors": {},
+  "deductible_wsh_excluded": [
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.2198
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1723
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1486
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1317
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1199
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1035
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0851
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0767
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1414
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1117
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0968
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0861
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0785
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.068
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0562
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0507
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0676
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0538
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0468
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0417
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0382
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0332
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0276
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.025
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7132
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.763
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7885
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8083
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8231
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8434
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8639
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.876
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6106
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6431
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6687
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7017
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.73
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7527
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.2198
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1723
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1486
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1317
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1199
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1035
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0851
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0767
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1414
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1117
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0968
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0861
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0785
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.068
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0562
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0507
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0676
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0538
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0468
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0417
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0382
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0332
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0276
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.025
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7132
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.763
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7885
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8083
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8231
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8434
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8639
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.876
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6106
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6431
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6687
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7017
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.73
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7527
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.2198
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1723
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1486
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1317
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1199
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1035
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0851
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0767
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1414
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1117
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0968
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0861
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0785
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.068
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0562
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0507
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0676
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0538
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0468
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0417
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0382
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0332
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0276
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.025
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7132
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.763
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7885
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8083
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8231
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8434
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8639
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.876
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6106
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6431
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6687
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7017
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.73
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7527
+    }
+  ],
+  "deductible_wsh_included": [
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 1,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 2,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1048
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0778
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0644
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0547
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0477
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0408
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0265
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0674
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0504
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0419
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0358
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0268
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0206
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0175
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0322
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0243
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0203
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0173
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0152
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0131
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0101
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0086
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9572
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 3,
+      "coverage": "dwelling",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 1,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 2,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1048
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0778
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0644
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0547
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0477
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0408
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0265
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0674
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0504
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0419
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0358
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0268
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0206
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0175
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0322
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0243
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0203
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0173
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0152
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0131
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0101
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0086
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9572
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 3,
+      "coverage": "other_structures",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 1,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 2,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.1048
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0778
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0644
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0547
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0477
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0408
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0265
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0242
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0076
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0004
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.996
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9935
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9937
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9256
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9254
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9658
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9575
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9546
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9537
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8657
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8061
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7481
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7401
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0674
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9868
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9285
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0504
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9803
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9301
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0419
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.978
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9322
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0358
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9347
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0312
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.977
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8493
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0268
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9797
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7921
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0206
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.915
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7375
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0175
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9164
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7311
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0322
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9516
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8933
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0243
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9541
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.904
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0203
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9563
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9105
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0173
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9586
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9163
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0152
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.961
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8332
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0131
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9659
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7784
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0101
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9045
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.727
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0086
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9075
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7222
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9194
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8611
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9298
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8797
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9361
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8903
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9412
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.899
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9458
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.818
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9529
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7653
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8944
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7169
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 1.0
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8989
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7136
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6433
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6975
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.729
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7546
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7761
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.7036
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6671
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.9572
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8562
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6709
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.3585
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4316
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.4795
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5209
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.5574
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6026
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6451
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.8136
+    },
+    {
+      "territory": 3,
+      "coverage": "personal_property",
+      "occupancy": "Owner/Seasonal",
+      "rate": 0.6283
+    }
+  ],
+  "scaling_factors": {
+    "scaling_dwelling": {
+      "": 0.0
+    },
+    "scaling_other_structures": {
+      "": 0.0
+    },
+    "scaling_personal_property": {
+      "": 0.0
+    },
+    "water_damage_reduced": {}
+  },
+  "inspection_fee": 26.0,
+  "flood_min_premium": 50.0
+}

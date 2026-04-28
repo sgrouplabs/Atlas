@@ -3,6 +3,6 @@
   "agent": "DOC",
   "status": "done",
   "timestamp": "2026-04-28T21:34:00Z",
-  "commit_hash": "8d78e2a",
-  "description": "Initialize atlas-mh-rater repository, README, schema, main.py, premium_engine, smoke tests, progress.json"
+  "commit_hash": "ca81fdb",
+  "description": "Initialize atlas-mh-rater: README, schema/init.sql, premium_engine.py, main.py, tests/smoke_test.py, .env.template, .gitignore, progress.json"
 }
