@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+data/inbox/*
+!data/inbox/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+.env
+*.db
+.DS_Store

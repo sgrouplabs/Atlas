@@ -1,0 +1,8 @@
+{
+  "task_id": "atlas-mh-init",
+  "agent": "DOC",
+  "status": "done",
+  "timestamp": "2026-04-28T21:34:00Z",
+  "commit_hash": null,
+  "description": "Initialize atlas-mh-rater repository, README, schema, main.py, premium_engine, smoke tests, progress.json"
+}
