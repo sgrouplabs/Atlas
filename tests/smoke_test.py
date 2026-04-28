@@ -21,8 +21,8 @@ def test_premium_engine_calculation():
         tier_factor=1.05,
         variable_factors={"deductible_discount": 0.95, "coverage_boost": 1.02},
     )
-    # 150 × 1.15 × 1.05 × 0.95 × 1.02 = ~182.54
-    expected = 182.54
+    # 150 × 1.15 × 1.05 × 0.95 × 1.02 = ~175.51
+    expected = 175.51
     assert abs(result - expected) < 0.01, f"Expected {expected}, got {result}"
     print(f"[QA] PremiumEngine calculation: PASS ({result})")
 
