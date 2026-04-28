@@ -20,6 +20,11 @@ def dispatch_parser(filepath: Path):
     """Route filing to the correct carrier parser."""
     filename = filepath.name.upper()
 
+    if "TOWERHILL" in filename or "TOWER HILL" in filename or "TX MH 06-25" in filename:
+        from models.tower_hill import TowerHillParser
+        parser = TowerHillParser(str(filepath))
+        return parser.save_json(f"{PARSED_OUTPUT}/{filepath.stem}_parsed.json")
+
     if "AMERMOD" in filename or "AMERICAN MODERN" in filename or "TX071MH" in filename:
         from models.amer_mod import AmerModParser
         parser = AmerModParser(str(filepath))

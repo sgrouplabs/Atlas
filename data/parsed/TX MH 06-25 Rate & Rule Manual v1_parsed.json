@@ -1,0 +1,1382 @@
+{
+  "carrier_code": "TOWERHILL",
+  "state": "TX",
+  "product": "Manufactured Home",
+  "base_rates": {
+    "Dwelling|Owner": 2056.2813,
+    "Dwelling|Rental": 1981.7058,
+    "Dwelling|Seasonal": 1906.836,
+    "Other Structures|Owner": 323.7515,
+    "Other Structures|Rental": 317.6682,
+    "Other Structures|Seasonal": 329.7073,
+    "Personal Property|Owner": 229.1518,
+    "Personal Property|Rental": 204.7434,
+    "Personal Property|Seasonal": 212.5088
+  },
+  "age_factors": {
+    "dwelling": {
+      "0": 0.51,
+      "1": 0.56,
+      "2": 0.61,
+      "3": 0.66,
+      "4": 0.71,
+      "5": 0.76,
+      "6": 0.81,
+      "7": 0.85,
+      "8": 0.89,
+      "9": 0.92,
+      "10": 0.94,
+      "11": 0.96,
+      "12": 0.98,
+      "13": 0.99,
+      "14": 1.0,
+      "17": 1.04,
+      "20": 1.09,
+      "23": 1.12,
+      "25": 1.1536,
+      "26": 1.2154,
+      "29": 1.2566,
+      "30": 1.281,
+      "32": 1.3335,
+      "35": 1.365,
+      "38": 1.3965,
+      "41": 1.449,
+      "44": 1.512,
+      "47": 1.554,
+      "50": 1.617
+    },
+    "other_structures": {
+      "0": 0.51,
+      "1": 0.56,
+      "2": 0.61,
+      "3": 0.66,
+      "4": 0.71,
+      "5": 0.76,
+      "6": 0.81,
+      "7": 0.85,
+      "8": 0.89,
+      "9": 0.92,
+      "10": 0.94,
+      "11": 0.96,
+      "12": 0.98,
+      "13": 0.99,
+      "14": 1.0,
+      "17": 1.04,
+      "20": 1.09,
+      "23": 1.12,
+      "25": 1.1536,
+      "26": 1.2154,
+      "29": 1.2566,
+      "30": 1.281,
+      "32": 1.3335,
+      "35": 1.365,
+      "38": 1.3965,
+      "41": 1.449,
+      "44": 1.512,
+      "47": 1.554,
+      "50": 1.617
+    },
+    "personal_property": {
+      "0": 0.51,
+      "1": 0.56,
+      "2": 0.61,
+      "3": 0.66,
+      "4": 0.71,
+      "5": 0.76,
+      "6": 0.81,
+      "7": 0.85,
+      "8": 0.89,
+      "9": 0.92,
+      "10": 0.94,
+      "11": 0.96,
+      "12": 0.98,
+      "13": 0.99,
+      "14": 1.0,
+      "17": 1.04,
+      "20": 1.09,
+      "23": 1.12,
+      "25": 1.1536,
+      "26": 1.2154,
+      "29": 1.2566,
+      "30": 1.281,
+      "32": 1.3335,
+      "35": 1.365,
+      "38": 1.3965,
+      "41": 1.449,
+      "44": 1.512,
+      "47": 1.554,
+      "50": 1.617
+    },
+    "rmps": []
+  },
+  "optional_coverages": {
+    "Animal Liability Exclusion": -3.0,
+    "Identity Fraud Expense": 20.0,
+    "Enhanced Coverage": 15.0,
+    "Equipment Breakdown": 50.0,
+    "Hobby Farming": 40.0,
+    "Service Line": 50.0,
+    "Trip Collision": 25.0,
+    "Vacancy Permission": 30.0
+  },
+  "optional_factors": {
+    "Roof Exclusion": -0.07
+  },
+  "water_damage_reduced": {
+    "Page": 116.0
+  },
+  "inspection_fee": 34.0,
+  "inspection_fee_waiver": -34.0,
+  "deductibles": [
+    {
+      "dwelling_limit": 101000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9898
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9569
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9367
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9172
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9016
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8921
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8819
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8694
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8567
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8481
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8361
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7961
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7505
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.487
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9676
+    },
+    {
+      "dwelling_limit": 76000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8789
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8403
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8216
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7874
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7634
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7531
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7461
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.734
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7233
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7129
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7033
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6771
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.4396
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9241
+    },
+    {
+      "dwelling_limit": 67000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.8009
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7538
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7306
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7039
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6824
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.678
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6762
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.671
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6581
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6524
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.644
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6154
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5662
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.4229
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9241
+    },
+    {
+      "dwelling_limit": 51000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7455
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.7049
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6798
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6619
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6443
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6391
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6329
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6227
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6103
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5969
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5863
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5644
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5241
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.4116
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.9241
+    },
+    {
+      "dwelling_limit": 41000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6847
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6483
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.618
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6152
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6066
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.6018
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.593
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5811
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5673
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5495
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5386
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5254
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.5022
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 500,
+      "rate": 0.3972
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 1.0
+    },
+    {
+      "dwelling_limit": 101000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9748
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9434
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9242
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9054
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8914
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8824
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8727
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8609
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8489
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8406
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8291
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7893
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7448
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.4813
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9526
+    },
+    {
+      "dwelling_limit": 76000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8639
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8268
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.8091
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7757
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7532
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7435
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7369
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7255
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7155
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7054
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6963
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6703
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5943
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.4339
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9091
+    },
+    {
+      "dwelling_limit": 67000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7859
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7403
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.718
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6921
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6721
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6683
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.667
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6625
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6503
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.645
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6369
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6086
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5605
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.4173
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9091
+    },
+    {
+      "dwelling_limit": 51000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.7305
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6915
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6672
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6501
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6341
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6294
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6237
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6141
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6025
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5895
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5793
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5576
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5184
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.406
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.9091
+    },
+    {
+      "dwelling_limit": 41000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6697
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6348
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6055
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.6034
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5963
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5922
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5838
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5726
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5595
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.542
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5316
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.5186
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.4965
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 1000,
+      "rate": 0.3915
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8382
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8657
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8825
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8814
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8683
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8597
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8521
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8406
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8302
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8225
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8112
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7724
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7296
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.466
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8382
+    },
+    {
+      "dwelling_limit": 126000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8336
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7994
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7834
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7517
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7301
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7208
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7163
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7052
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6968
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6873
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6783
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6534
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.579
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.4186
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8382
+    },
+    {
+      "dwelling_limit": 84000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7556
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.713
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6924
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6682
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6491
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6456
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6464
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6422
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6316
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6269
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.619
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5917
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5452
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.402
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8382
+    },
+    {
+      "dwelling_limit": 63000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7002
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6641
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6416
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6261
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.611
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6067
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6031
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5938
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5838
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5714
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5614
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5407
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5031
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.3907
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8382
+    },
+    {
+      "dwelling_limit": 51000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6394
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.6075
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5798
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5794
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5733
+    },
+    {
+      "dwelling_limit": 351000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5695
+    },
+    {
+      "dwelling_limit": 401000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5631
+    },
+    {
+      "dwelling_limit": 451000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5523
+    },
+    {
+      "dwelling_limit": 501000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5408
+    },
+    {
+      "dwelling_limit": 551000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5239
+    },
+    {
+      "dwelling_limit": 601000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5137
+    },
+    {
+      "dwelling_limit": 701000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.5017
+    },
+    {
+      "dwelling_limit": 1000000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.4812
+    },
+    {
+      "dwelling_limit": 5001000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.3763
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6446
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6898
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6446
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6898
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6446
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6898
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6446
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6654
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6446
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.6046
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 500,
+      "rate": 1.0557
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 0,
+      "rate": 0.7578
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 500,
+      "rate": 1.05
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 1000,
+      "rate": 1.0
+    },
+    {
+      "dwelling_limit": 151000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.8983
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.777
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 500,
+      "rate": 1.0466
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 1000,
+      "rate": 1.0
+    },
+    {
+      "dwelling_limit": 201000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.9046
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7883
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 500,
+      "rate": 1.0438
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 1000,
+      "rate": 1.0
+    },
+    {
+      "dwelling_limit": 251000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.9108
+    },
+    {
+      "dwelling_limit": 5000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.7972
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 500,
+      "rate": 1.0382
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 1000,
+      "rate": 1.0
+    },
+    {
+      "dwelling_limit": 301000,
+      "all_other_peril_deductible": 2500,
+      "rate": 0.9142
+    }
+  ]
+}
